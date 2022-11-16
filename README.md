@@ -125,7 +125,7 @@ Project Link: [https://github.com/oyesaifi/ImagetoSketch](https://github.com/oye
 [stars-url]: https://github.com/oyesaifi/icons8free/stargazers
 [issues-shield]: https://img.shields.io/github/issues/oyesaifi/icons8free.svg?style=for-the-badge
 [issues-url]: https://github.com/oyesaifi/icons8free/issues
-[product-screenshot]: media/images/ss.PNG
+[product-screenshot]: assets/ss.PNG
 [php.js]: https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=61DAFB
 [html.js]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
 [js.js]: https://img.shields.io/badge/js-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB
