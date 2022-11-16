@@ -38,9 +38,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/oyesaifi/icons8free)
 
-This is simple Image to Sketch convertor made using Django, Python3 & Opencv.
+This website helps you to download Icons8 Premium icons for free!
 
 Why use it?:
 * Download premium icons
@@ -52,8 +52,6 @@ Why use it?:
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * ![HTML][html.js]
 * ![JS][js.js]
